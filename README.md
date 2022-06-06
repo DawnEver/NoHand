@@ -18,12 +18,12 @@
 - python3
 - PyQt5
 - PyQt5-tools
-### 或者你可以选择下载exe执行文件运行
+### 或者你可以选择下载exe执行文件(Nohand/release/window/dist文件夹)运行
 ---
 ## 运行前
 配置目标名单  
-- totalList.txt中名单，即滚动显示的全体名单
-- luckyList.txt中名单，最终只会在此名单中抽取名单  
+- totalList.txt中名单，即滚动显示的人员名单
+- luckyList.txt中名单，即最终抽取的人员名单
 
 ## 运行程序  
 - 长按**开始滚动/暂停**开始抽取
@@ -57,4 +57,6 @@ order=0
 ##### 定制随机数或其他需求,请联系作者qq1062934106
 
 
-
+## TO DO
+[to do]批量随机数
+[to do]网页版
