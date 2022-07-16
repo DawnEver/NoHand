@@ -41,8 +41,8 @@
 ## 配置参数
 
 ```json
-/*用记事本打开json文件*/
-/*./settings.json  */
+用记事本打开json文件
+./settings.json  
 {
 "order":1,
 "delay":0.05,
@@ -116,8 +116,8 @@ In most time, two lists should be same.	 [doge]
 ## Options
 
 ```json
-/*open json with notepad.exe*/
-/*./settings.json  */
+open json with notepad.exe
+./settings.json  
 {
 "order":1,
 "delay":0.05,
