@@ -132,3 +132,4 @@ dmypy.json
 #private
 /Lucky2102
 .DS_Store
+.code-workspace
