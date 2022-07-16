@@ -48,11 +48,11 @@
 "delay":0.05,
 }
 ```
-1. order=1   
+- order=1   
 按照luckyList顺序循环抽取一人  
 order=0  
 在luckyList中随机抽取
-2. delay  
+- delay  
 每一个名字停留时间（默认0.05s)  
 **注意：delay小于0.02s会产生某些不可知的错误**
 
@@ -123,15 +123,15 @@ open json with notepad.exe
 "delay":0.05,
 }
 ```
-1. order=1   
-    Names will show successively in the order of luckyList(in a circle).
+- order=0  
+Results will be selected randomly from luckyList.<br>
+order=1   
+Names will show successively in the order of luckyList(in a circle).
 
 >If times of your pressing is out of luckyList,the result will begin from the first name in LuckyList.
 
-1. order=0  
-Results will be selected randomly from luckyList.
 
-3. delay  
+- delay  
     Occurrence time of each name(default 0.05s).
 >**Warnning**:Never cut delay time shorter than 0.02s!
 >
