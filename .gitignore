@@ -132,9 +132,4 @@ dmypy.json
 #private
 /Lucky2102
 .DS_Store
-<<<<<<< HEAD
 *.code-workspace
-*.ini
-=======
-.code-workspace
->>>>>>> parent of 7838e80 (*.code-workspace)
