@@ -133,3 +133,4 @@ dmypy.json
 /Lucky2102
 .DS_Store
 *.code-workspace
+*.ini
